@@ -115,3 +115,30 @@ ul {
     font-size: 22px;
   }
 }
+
+@media only screen and (max-width: 475px) {
+  #experience {
+    padding-left: unset;
+    padding-right: unset;
+  }
+
+  .jss1 {
+    height: unset !important;
+    flex-direction: column !important;
+  }
+
+  .makeStyles-root-1 {
+    height: unset !important;
+    width: unset;
+    flex-direction: column;
+  }
+
+  .joblist-job-title {
+    font-size: 20px;
+  }
+
+  .joblist-job-company {
+    font-size: 20px;
+  }
+  /* needs to be fixed */
+}
