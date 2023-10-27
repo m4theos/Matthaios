@@ -27,7 +27,7 @@ class Hero extends React.Component {
             {" here."}
           </span>
         </Typist>
-        <FadeInSection delay="0.3s">
+        <FadeInSection delay="0.1s">
           <div className="intro-subtitle">React.js and Front-end engineer.</div>
           <div className="intro-desc">
             I'm a software engineer based in the Netherlands. I have a great

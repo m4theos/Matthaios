@@ -27,7 +27,7 @@ class Experience extends Component<{}, ExperienceState> {
   render() {
     return (
       <div id="experience">
-        <FadeInSection delay="0.3s">
+        <FadeInSection delay="0.1s">
           <div className="section-header">
             <span className="section-title">/ experience</span>
           </div>

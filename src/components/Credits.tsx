@@ -25,7 +25,7 @@ class Credits extends Component<{}, CreditsState> {
 
   render() {
     return (
-      <FadeInSection delay="0.3s">
+      <FadeInSection delay="0.1s">
         <div id="credits">
           <div className="ending-credits">
             <div>Built and designed by Matthaios Petrou. </div>

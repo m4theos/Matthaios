@@ -63,7 +63,7 @@ class About extends Component<{}, AboutState> {
 
     return (
       <div id="about">
-        <FadeInSection delay="0.3s">
+        <FadeInSection delay="0.1s">
           <div className="section-header">
             <span className="section-title">/ about me</span>
           </div>
