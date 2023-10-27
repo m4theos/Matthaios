@@ -25,7 +25,7 @@ class About extends Component<{}, AboutState> {
 
   render() {
     const one = (
-      <p>
+      <p style={{marginBottom:"10px"}}>
         I am currently a <b>Student</b> at
         <a href="https://www.utwente.nl/en/"> University of Twente</a>, I take the course of Technical Computer Science,
         while I simultaneously work Part-time as a Teaching Assistant and Mentor helping students in coding labs.

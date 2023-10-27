@@ -64,18 +64,18 @@ const experienceItems: { [key: string]: JobItem } = {
     jobTitle: "Student and Teaching Assistant @",
     duration: "SEP 2021 - PRESENT",
     desc: [
-      "wip.",
-      "wip.",
-      "wip.",
+      "Assisted professors in teaching courses by leading discussions, and providing guidance to students, fostering a collaborative learning environment.",
+      "Helped students with assignments including Assembly, SQL, Haskell, Python and Algorithms.",
+      "Worked in a lot of projects throughout the learning progress of my study including Java, Javascript, Python Flask, HTML & CSS.",
     ],
   },
   "I.C.T.S.V. Inter-Actief": {
     jobTitle: "Tutor @",
     duration: "OCT 2023 - PRESENT",
     desc: [
-      "wip.",
-      "wip.",
-      "wip.",
+      "Actively tutor within I.C.T.S.V. Inter-Actief, assisting students with their coursework.",
+      "Provide homework help and clarify module concepts for fellow students.",
+      "Contribute to the society's academic success by supporting student learning.",
     ],
   },
   // Add more job items as needed
